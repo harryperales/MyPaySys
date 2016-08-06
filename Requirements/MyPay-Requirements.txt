@@ -1,0 +1,23 @@
+MyPay v1.0
+==========
+RRJ:
+----
+ 1. Sat & Sun - Full working day
+ 2. Advance and Cloth purchase - Deduct from salary max 3 months / Optionally should be allow to change
+ 3. Season Staff - Daily wages
+ 4. Office Opening Time changes
+ 5. Lunch break - extension max 2hours
+ 6. Employee-wise working days
+ 7. Advance Leave Permission - otherwise alert
+ 8. Maximum permission - per day and per month
+ 9. Half day leave - Max time: 3:30pm - permission and without permission
+10. ESI, PF
+11. Daily batta
+12. Sales commission
+13. Holiday setting for the year
+
+Employee:
+14. Identity proof
+15. Blood group
+16. Staff Bank Details
+17. Season Staff Y/N
