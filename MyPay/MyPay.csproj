@@ -158,13 +158,13 @@
     <None Include="Resources\employee.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Collection\MaterialSkin-master\MaterialSkin\MaterialSkin.csproj">
+    <Folder Include="Controls\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MaterialSkin-master\MaterialSkin\MaterialSkin.csproj">
       <Project>{8eb7611b-68cd-4b8b-987a-11717e2b250c}</Project>
       <Name>MaterialSkin</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controls\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
